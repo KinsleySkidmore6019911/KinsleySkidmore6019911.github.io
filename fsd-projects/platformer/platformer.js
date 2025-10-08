@@ -27,11 +27,11 @@ $(function () {
     //////////////////////////////////
 
     // TODO 1 - Enable the Grid
-    // toggleGrid();
+  
 
 
     // TODO 2 - Create Platforms
-
+console.log(createPlatform(x,y,15,250));
 
 
 
